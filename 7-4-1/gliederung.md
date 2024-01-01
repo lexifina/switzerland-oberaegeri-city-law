@@ -9,5 +9,5 @@
 ### 5.2 Versorgungsbedingungen
 ## 6 Finanzierung
 ## 7 Schlussbestimmungen und Übergangsrecht
-## A1 Anhang 1: Tarif Anschlussgebühren
-## A2 Anhang 2: Tarif Betriebsgebühren
+## A1 …
+## A2 …
