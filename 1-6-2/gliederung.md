@@ -1,4 +1,3 @@
-## 1 Die Kommission als Gesamtgremium
-## 2 Kommissionssitzungen
-## 3 Aufgaben und Befugnisse
-## 4 Rechtsschutz
+## 1 Grundsatz
+## 2 Aufgaben
+## 3 Organisation
