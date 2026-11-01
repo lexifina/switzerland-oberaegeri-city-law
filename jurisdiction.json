@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-oberaegeri",
+  "code": "CH-ZG-OBERAEGERI",
+  "name": "Oberägeri (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-oberaegeri-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (51 acts, 83 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

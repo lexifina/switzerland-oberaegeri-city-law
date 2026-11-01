@@ -1,0 +1,911 @@
+{
+ "country": "CH-ZG-OBERAEGERI",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 25,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.1-1/versions/166",
+     "sha256": "18fc3deff1fd63aee907eba9eb026cd01e8174af792a858b33d27b8d4d47f52e"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 25,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "f06a7cc43c6f67085657b57aecebddf4d16b7ad35805d8e50cdcc1ed01f3d70a"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Verordnung über die Benützung des Archivs",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 16,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "1c2f06b07e3f1fc69bad703a46461779a17ddc5fb9058e6912634ab7688601df"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Verordnung über die Veranstaltungswerbung der Dorfeingangstafeln",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "669d5579bc88f5b0d8d90840d6fcc7fa8f33aab08f39594016cd0a313175f2e9"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Entschädigungsreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "9f6e14f517a85288ac88d332eb0f6d710acf5a4cf8488288cca37d461ef8f582"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1",
+   "short": "SRS 1.6-1.1",
+   "title": "Verordnung zum Entschädigungsreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-1.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-1.1/versions/222",
+     "sha256": "94c775f52e7baecc8382727a147dd01adec8417ae82ac85892f979650903277d"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-1.1",
+     "sha256": "9dc67c14e7576542ec7161f4cb515ac7c812a2ab96f892636db90b5125059b9a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Verordnung über die Geschäftsführung der Planungs- und Baukommission",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2015-04-13",
+     "units": 23,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-2/versions/181",
+     "sha256": "3c3f3b5bef54887101c0ea07c9238f7bac55c6d9b308203f8dd5d2a1e880821e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 20,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "61a4b86e01e345d3800343d6b49b049bce0fb79074474e08db8650319344c002"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Verordnung über die Geschäftsführung der Schulkommission",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2015-08-17",
+     "units": 30,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "17580ffb83a19458fa2230bd82b229bff9079d38f96a68255d75480c0b58a54a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Verordnung über die Geschäftsführung der Strategiekommission",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2020-04-20",
+     "units": 22,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "58a1abdb45881c2a4d0fbf92f9515b45ded11fdd229d1bceffd5d1c1b3080a2b"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-5-vtbk",
+   "short": "VTBK",
+   "title": "Verordnung über die Geschäftsführung der Tiefbaukommission",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-5",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 20,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-5/versions/130",
+     "sha256": "6496a2776352fa17824293ecff6e4d2479e2ce4df35dba12a98a570960a9230d"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 15,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-5",
+     "sha256": "efb0668ae6019a7dd52ee8dbcd86c5f2ce43b3129f90799fb68128b4c4ab46a2"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-6",
+   "short": "SRS 1.6-6",
+   "title": "Verordnung über die Geschäftsführung der Begleitgruppe Musikschule",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-6",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 4,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-6",
+     "sha256": "09679a7e282085ce4f2ad444a5c2bf654e11ed277893aa70d023c0ab22afe530"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-7",
+   "short": "SRS 1.6-7",
+   "title": "Verordnung über die Geschäftsführung der Alterskommission Ägerital",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-7",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-7",
+     "sha256": "40b3969fb6d807d2bcb5fcedfee97905d4715242c48d6190da8359d17548f4aa"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-8",
+   "short": "SRS 1.6-8",
+   "title": "Verordnung über die Geschäftsführung der Energie- und Umweltkommission",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/1.6-8",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 21,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/1.6-8",
+     "sha256": "4bb5ed727f442704d0bb5adb8875fd195ad68ab3fc83356ba2637c8c5f9c7e5f"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement Familienergänzende Kinderbetreuung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 9,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "f4cbcaf48f677b1f725c5e8e94035a39ec9f113bb94fe32cf258c7f15320a428"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1-vfekb",
+   "short": "VFEKB",
+   "title": "Verordnung zum Reglement Familienergänzende Kinderbetreuung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 20,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/127",
+     "sha256": "70956bee257fee8bb8cf06111233f3808df51afffd660d9d054601bb7172c6c2"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 20,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/197",
+     "sha256": "b9129fcb82c4e185852090e4ac391e186b3c86188ade5340277e7433d5e0ab2f"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 20,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/219",
+     "sha256": "eca9f5b3fc472ceeb94d8f81163cfe2854fa5b718c37e8781582bfc033f39687"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 20,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/244",
+     "sha256": "8c0087dfebf0236e6f63e52512ee5d40d78c63e23a145cb1aeb01a64056b97f8"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 19,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "e2e7b6c25ad07590aa8e029da4bc7f971924b01d21b0d4eae67e6e68dec64b43"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2-vbseb",
+   "short": "VBSEB",
+   "title": "Verordnung zum Betrieb der schulergänzenden Betreuung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 24,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-2/versions/132",
+     "sha256": "fbfaff4ffff7a0f88b016da78d583ab98fb1f73842fd6bf627ee5404163a79d6"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 24,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-2/versions/198",
+     "sha256": "47f8f6314a8bf9aab3a37a336550e7b61f031eb5b60a012723979afa767d4c20"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 24,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-2/versions/218",
+     "sha256": "01168b04db3985a477db5c00fc919824eb7dd53a89ecb1e08acf66c6660706dd"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 24,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-2/versions/245",
+     "sha256": "5829390374c096bea9465cd32e92c5e054b46402fbf31f917e7652b2e786e7a1"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 27,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "d3025b3b2dec954710e41e472e0062d7fa3cc85c1bb71e7df1934edcc0960b8e"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Reglement Schulzahnarzt-Dienst",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "d27a080cac8224471f17692654bdb36f3069181776be273306f70d1f90d37296"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-1",
+   "short": "SRS 4.2-1.1",
+   "title": "Verordnung zum Reglement Schulzahnarzt-Dienst",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.2-1.1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 6,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-1.1",
+     "sha256": "498b49d56a8f470f6060ba1b6f91ebb511d5541e23b1f7ca9fb6aa89b31edf25"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Verordnung über das Schul- und Disziplinarwesen",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 28,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-2/versions/200",
+     "sha256": "450d610e4bc1765628d9554dbc015c0774a2aa003e5a74fb772ba19ee7618712"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 27,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "4493b5d101ef4e7e6acf46dbef949cf548d40638d13c45bf4a35045002badc42"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3-absenzenverordnung",
+   "short": "Absenzenverordnung",
+   "title": "Verordnung über die Absenzen der Schülerinnen und Schüler",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-3/versions/204",
+     "sha256": "8acb86335de5763273cc7803dd6ae078984938de8a4be419b8c0ac78b093d0b8"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "f4b0bdbab5d678daf1c39c8a3a4318e210cbb576daa5e2d5f3bff6d93924d611"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-4",
+   "short": "SRS 4.2-4",
+   "title": "Verordnung über die Schulaktivitäten",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.2-4",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 15,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-4/versions/192",
+     "sha256": "7840f97b48b843e137a4d69d646ec5cff4ff825715f6c998aa067deaa4b1311f"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 15,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-4/versions/202",
+     "sha256": "07793bef787d4c8e33c1e0e392dea7b99506b10315488ed6d83ec65bc7f24d4d"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 14,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-4",
+     "sha256": "3a95c69543ccc695345bafd0d01ee868c9c9c1214daa43804670b09812101786"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-5",
+   "short": "SRS 4.2-5",
+   "title": "Verordnung zum Eintritt in die Grundstufe",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.2-5",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.2-5",
+     "sha256": "c02b4045c0fb49717913a5ed464c36612298e76ea4fbac194ffee24ce4ae6aa8"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Musikschulreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "712e4a9a008dae9a3387a5d33ac28068251d3055611943e69661d058da1b11bb"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Verordnung zum Musikschulreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "f4765108029e96f61b2467e224749602ee2dcc6106b36ce48d43204411316341"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-2",
+   "short": "SRS 4.3-1.2",
+   "title": "Verordnung über das Schulgeld der Musikschule",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.3-1.2",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.3-1.2",
+     "sha256": "d0101b37ebbc686dfa852c2b241924a52f9421933166d1e2fa6b99c554823845"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-1",
+   "short": "SRS 4.5-1",
+   "title": "Richtlinien Sportlerinnen- und Sportlerehrungen und Award-Verleihung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/4.5-1",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 13,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.5-1/versions/49",
+     "sha256": "9ab4a01acd98047df7fe3b2029a56be74b9aaa176abe2a914c6324d9683b6a20"
+    },
+    {
+     "from": "2023-03-27",
+     "units": 13,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.5-1/versions/214",
+     "sha256": "13e95079ec5f373c0295865d8373d7d8d4c0fa31cb5be2aa930fae99d2160695"
+    },
+    {
+     "from": "2024-04-08",
+     "units": 14,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/4.5-1",
+     "sha256": "215066e257156681b3fb7374af66b7f0fba23a38f856c32e744e96426b4b261d"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehrreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 15,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "c6c6fa6d3b06a768b7637fc057f425272c0d3746fd88a2f0be7c03062db0bd5a"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-gebv",
+   "short": "GebV",
+   "title": "Gebührenverordnung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 49,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/134",
+     "sha256": "67a377f1228efaddf2d51ed6082e639a15db149688c05475aea52264707d90c5"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 49,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/183",
+     "sha256": "fc53a6eda402714a997fec96526a620fca342889c76d472a83c721b85f78ed0c"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 49,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/188",
+     "sha256": "dd4432a34c344e204ca7b4f6f853995d7d78218312d189f3f34d1e46a89aa6ce"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 51,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/207",
+     "sha256": "777d2b5c3107f1076fe44ba259e815bd34d38a7b1e711e4db2499a97d46430ce"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 51,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/227",
+     "sha256": "50995a88060e16a33f34b8357008f5a97ae8a90fc56314ed927c5f1772180eed"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 51,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/273",
+     "sha256": "1e236614a4123f91ab8752ecdb8cec78d64e667f588aa2c162f0e159339e8135"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 50,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "0c19f5e6d5c21a345a0c956aea82f2dfef452295c3205d101a19251c822c4f2c"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-1",
+   "short": "SRS 6.5-1",
+   "title": "Reglement über die Beiträge an denkmalgeschützte Objekte",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/6.5-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.5-1",
+     "sha256": "47e16cb14e1bc739f731eff174a865a90c14f49a027c9d67eba75f17fa0f905e"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Verordnung über die Benützung der Mehrzweckanlagen Maienmatt Hofmatt Alosen",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 47,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "44d24252dd276cbe09bacc70715f5ff50ead5bde550ebbbaa38b73303a565edb"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Verordnung über die Benützung der Studenhütte",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2005-11-14",
+     "units": 16,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "3b5d62270145fc2028151584c07a7dd290acaa2c7aa9a9f5e52407bc6ee75e8d"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3-vbl",
+   "short": "VBL",
+   "title": "Verordnung über den Betrieb des Lagerhauses Bachweg 9",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 15,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "f9437ecf996b6635bae21bd1b31e386ef78c8d47316593b6c96306c931f4a183"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-bo",
+   "short": "BO",
+   "title": "Bauordnung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 67,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.1-1/versions/174",
+     "sha256": "2a97bf9348ab908607f7dd394fb537a8b2efed42f55b8b232261eb07cd7b9222"
+    },
+    {
+     "from": "2025-05-22",
+     "units": 71,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "2051e0736fc108da5108e0443bb85388ccedfa74c6b08a8f502800f019f55de3"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Verordnung über die Delegation von Befugnissen in Baubewilligungs- und baupolizeilichen Angelegenheiten",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2008-06-01",
+     "units": 6,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "7591900687093da342bb946ca3e990fc41b131a64955f920bb6f436f3abc2564"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Verordnung über die Lärmbekämpfung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "1972-08-14",
+     "units": 13,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "29aeea2c4286d36499dcc1a96968ba8488f82b87a008d59cc617464f2b8284c7"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Energieförderrichtlinien",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.3-2/versions/142",
+     "sha256": "d9747f571db85f7bf6363630b33f199e9137680ec33f7c913f5c5840cf9f6399"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "5338dafce9e12250d77c2c2ed8cef77ef65134cae3304cac6cf6ef8bc7c0b63a"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1",
+   "short": "SRS 7.4-1",
+   "title": "Reglement Wasserversorgung (RW)",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.4-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 40,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-1/versions/175",
+     "sha256": "01434e37c6892bbde165616c767e6ef659ddc6b2e9125167c0b8668f74bb703e"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 44,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-1",
+     "sha256": "2523e5230926858a1974c84b96b1610f5a9578ea117516876d8a0173aed0be55"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2",
+   "short": "SRS 7.4-2",
+   "title": "Konzessionsvorschriften Wasserversorgung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.4-2",
+   "versions": [
+    {
+     "from": "1977-10-31",
+     "units": 8,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-2",
+     "sha256": "e88ed4b9297340b606e298fe343062a7bd52978ca0654b92b5c47af3ff30362f"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-ar",
+   "short": "AR",
+   "title": "Abwasserreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.4-3",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 26,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-3/versions/145",
+     "sha256": "7dba278ba692a1495e3093a61d71da121f3b2b600c9a56b87ea60bfcbba142a0"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 39,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-3",
+     "sha256": "ba923fcf4a55a805fb36877339c282231c7f922677ddcc6fae231c50d28a1f57"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-var",
+   "short": "VAR",
+   "title": "Verordnung zum Abwasserreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.4-3.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 36,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-3.1",
+     "sha256": "2d9e932db111c203ce2450de1e11774c6b6c55a4686419ba8ec2f24bc825521d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4",
+   "short": "SRS 7.4-4",
+   "title": "Verordnung über die Fernwärme Quartierheizung Hofmatt",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.4-4",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 109,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.4-4",
+     "sha256": "6533db1f5e8b516c753e4fdeec51c959c190f0f86e182f7d75a24b96b0c107d9"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1-rstra",
+   "short": "RStra",
+   "title": "Strassenreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 29,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.6-1/versions/176",
+     "sha256": "0adb7031aedc9c1400a4f183a25b1977466e4d35c8656d4bd2795de1fe380f41"
+    },
+    {
+     "from": "2025-05-22",
+     "units": 30,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "86b744fde4aefde0b46da1b6e62c7e7ba3411d0a9b7704856894b29dcd656428"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Verordnung über die Parkplatzbewirtschaftung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "3b8e711d98d33b54369bc1da5704a8f2463e98d9123e8c0bc8dae8adb76083a3"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2-vbog",
+   "short": "VBöG",
+   "title": "Verordnung zur Benützung des öffentlichen Grundes",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 12,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "cbbcdfc170f53e26c606aa4d6b192e1635cc6557fd3a06b7f721bd580ab07c4a"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Friedhofreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 49,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.2-1/versions/77",
+     "sha256": "3294f83caa800249862335866002559e8fa3686753e2f9411382d01fa542b329"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 25,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "c629c7e1e61e60b126b7db352718ddc7a9392d690ef256b73f965a380fb51270"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Verordnung zum Friedhofreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 38,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "4b93d93f6ea313f1bc18242f63d0f52561cff4c8d0c6a04e791f5709c4577d5e"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Hundehaltungs- und Hundesteuerreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.3-1/versions/171",
+     "sha256": "50d1372fddcef1bcadf9643b4320b86ea9f60543e34d8e3c2afb37c7eaf8aeb5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "c15e9709ff92af03c5253ef7b718dc919d1861aa25782a215f17a5a0a168bb1d"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-1",
+   "short": "SRS 8.8-1",
+   "title": "Vorschriften über die Wohnbauförderung",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/8.8-1",
+   "versions": [
+    {
+     "from": "1994-12-14",
+     "units": 8,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.8-1",
+     "sha256": "47a4018fdf6d7ffa93b525577cb4f3c8f7b0e3c332b6b2b5e3a06315faed2528"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-1-1",
+   "short": "SRS 8.8-1.1",
+   "title": "Wohnbauförderungsreglement",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/8.8-1.1",
+   "versions": [
+    {
+     "from": "1994-12-14",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.8-1.1",
+     "sha256": "ca134c1679eb228cd28c884c00a9f00c7373d037f962797ac5cf6756359f4d77"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-2",
+   "short": "SRS 8.8-2",
+   "title": "Verordnung über die Vermietung kommunaler Wohnungen",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/8.8-2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 11,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/8.8-2",
+     "sha256": "d6110fcbff882de9f8b1349c82374e4e25be256315981512629476b692fe48fd"
+    }
+   ]
+  },
+  {
+   "slug": "9-3-1",
+   "short": "SRS 9.3-1",
+   "title": "Verordnung über die Angelfischerei im Ägerisee",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/9.3-1",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 7,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/9.3-1/versions/212",
+     "sha256": "b3fbec7ce263acb3f0e2fd44cffa127cad7dd1d9d01a64920bbefe3a5293a838"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 7,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/9.3-1",
+     "sha256": "bf168e994ff3ec98b01bcc25b061cbaf831d44a407ab2281db4950bdf8297a31"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Verordnung über die Beherbergungsabgabe",
+   "url": "https://oberaegeri.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "61f537f4b1b6e54780402f4bf7f9794ed23271507c5fc14092e9ebdeb4ba66b9"
+    }
+   ]
+  }
+ ]
+}
