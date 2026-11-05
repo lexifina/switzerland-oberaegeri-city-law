@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-51 acts with 83 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+51 acts with 83 versions in force and one announced future version: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -38,7 +38,7 @@ The text is in German, exactly as the municipality publishes it.
 | `4-3-1-2/` | Verordnung über das Schulgeld der Musikschule (SRS 4.3-1.2) | 1 | as enacted, 1 August 2016 |
 | `4-5-1/` | Richtlinien Sportlerinnen- und Sportlerehrungen und Award-Verleihung (SRS 4.5-1) | 3 | as enacted, then each consolidated version: 18 March 2013 to 8 April 2024 |
 | `5-5-1/` | Feuerwehrreglement (SRS 5.5-1) | 1 | as enacted, 1 January 1997 |
-| `6-4-1-gebv/` | Gebührenverordnung (SRS 6.4-1) | 7 | as enacted, then each consolidated version: 1 January 2022 to 1 June 2026 |
+| `6-4-1-gebv/` | Gebührenverordnung (SRS 6.4-1) | 8 | as enacted, then each consolidated version: 1 January 2022 to 1 June 2026; future version effective 1 January 2027 |
 | `6-5-1/` | Reglement über die Beiträge an denkmalgeschützte Objekte (SRS 6.5-1) | 1 | as enacted, 1 January 2025 |
 | `6-6-1/` | Verordnung über die Benützung der Mehrzweckanlagen Maienmatt Hofmatt Alosen (SRS 6.6-1) | 1 | as enacted, 1 May 2022 |
 | `6-6-2/` | Verordnung über die Benützung der Studenhütte (SRS 6.6-2) | 1 | as enacted, 14 November 2005 |

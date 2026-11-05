@@ -520,6 +520,12 @@
      "units": 50,
      "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1",
      "sha256": "0c19f5e6d5c21a345a0c956aea82f2dfef452295c3205d101a19251c822c4f2c"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 50,
+     "source_url": "https://oberaegeri.tlex.ch/api/de/texts_of_law/6.4-1/versions/288",
+     "sha256": "ef29f441f82a7b11f1a4e7f49903473cf85c1501e9564067f80318fad4ce7994"
     }
    ]
   },

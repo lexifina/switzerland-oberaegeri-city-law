@@ -1,6 +1,6 @@
 # Gebührenverordnung
 
-GebV · 7 versions, from 2022-01-01 (latest in force: 2026-06-01) · <https://oberaegeri.tlex.ch/app/de/texts_of_law/6.4-1>
+GebV · 8 versions, from 2022-01-01 (latest in force: 2026-06-01) · <https://oberaegeri.tlex.ch/app/de/texts_of_law/6.4-1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -50,7 +50,7 @@ GebV · 7 versions, from 2022-01-01 (latest in force: 2026-06-01) · <https://ob
 | Art. 44 | [art-044.md](art-044.md) | 1 | 2024-01-01 |
 | Art. 45 | [art-045.md](art-045.md) | 2 | 2026-01-01 |
 | Art. 46 | [art-046.md](art-046.md) | 2 | 2026-06-01 |
-| Art. 47 | [art-047.md](art-047.md) | 2 | 2026-06-01 |
+| Art. 47 | [art-047.md](art-047.md) | 3 | 2027-01-01 |
 | Art. 48 | [art-048.md](art-048.md) | 1 | 2024-01-01 |
 | Art. 49 | [art-049.md](art-049.md) | 1 | 2024-01-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 3 | 2026-06-01 |
