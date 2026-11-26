@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:28:07Z",
+ "generated": "2026-11-26T07:19:31Z",
  "latest": {
   "lexwork-oberaegeri-city|switzerland/zug/oberaegeri/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 51,
     "source_in_scope": 51
    },
-   "check_id": "ch-lexwork-oberaegeri-city-20261125T082059Z",
+   "check_id": "ch-lexwork-oberaegeri-city-20261126T071235Z",
    "commits": null,
    "corpus": "switzerland/zug/oberaegeri/acts",
    "error": null,
-   "finished": "2026-11-25T08:21:32Z",
+   "finished": "2026-11-26T07:13:03Z",
    "flags": [],
    "gap": 1,
    "note": "oberaegeri.tlex.ch: index of 66 acts (66 in force); held 51; 0 in force and in scope not held yet, 14 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 8 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 30,
+   "requests": 24,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "66 entries, 66 in force (oberaegeri.tlex.ch)",
    "source": "lexwork-oberaegeri-city",
-   "started": "2026-11-25T08:20:59Z",
+   "started": "2026-11-26T07:12:35Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 8,
-    "versions_checked": 17,
+    "versions_checked": 12,
     "versions_differ": 0
    }
   }
