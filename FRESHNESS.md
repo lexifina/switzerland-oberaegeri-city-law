@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Oberaegeri: Systematische Sammlung (oberaegeri.tlex.ch) · `switzerland/zug/oberaegeri/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:13 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 07:07 UTC**.
 - Vorschriften hier: 51; aktuell gegenüber der Quelle: 51; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 8 der 51 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 1 (hier vorhanden, an der Quelle nicht mehr: 1); ohne Grund: 0.
+- Nicht veröffentlicht: 2 (hier vorhanden, an der Quelle nicht mehr: 1, tritt später in Kraft: 1); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:31Z",
+ "generated": "2026-11-27T07:13:30Z",
  "latest": {
   "lexwork-oberaegeri-city|switzerland/zug/oberaegeri/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 51,
     "source_in_scope": 51
    },
-   "check_id": "ch-lexwork-oberaegeri-city-20261126T071235Z",
+   "check_id": "ch-lexwork-oberaegeri-city-20261127T070652Z",
    "commits": null,
    "corpus": "switzerland/zug/oberaegeri/acts",
    "error": null,
-   "finished": "2026-11-26T07:13:03Z",
+   "finished": "2026-11-27T07:07:30Z",
    "flags": [],
-   "gap": 1,
+   "gap": 2,
    "note": "oberaegeri.tlex.ch: index of 66 acts (66 in force); held 51; 0 in force and in scope not held yet, 14 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 8 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 24,
+   "requests": 34,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "66 entries, 66 in force (oberaegeri.tlex.ch)",
    "source": "lexwork-oberaegeri-city",
-   "started": "2026-11-26T07:12:35Z",
+   "started": "2026-11-27T07:06:52Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -64,11 +64,13 @@
     "examples": [],
     "held": 51,
     "method": "each act compared this check (8 of 51: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from oberaegeri.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
-    "not_compared": {},
-    "not_compared_why": null,
+    "not_compared": {
+     "42-q253-fees-2027.json": 1
+    },
+    "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": true,
     "swept": 8,
-    "versions_checked": 12,
+    "versions_checked": 10,
     "versions_differ": 0
    }
   }
