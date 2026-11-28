@@ -6,18 +6,21 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Oberaegeri only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 07:07 UTC, Oberaegeri: systematic collection (oberaegeri.tlex.ch): 34 addresses read; 0 added, 0 changed, 0 removed; no change; 2 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 08:29 UTC, Oberaegeri: systematic collection (oberaegeri.tlex.ch): 26 addresses read; 0 added, 0 changed, 0 removed; no change; 1 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Oberaegeri: systematic collection (oberaegeri.tlex.ch)](https://oberaegeri.tlex.ch/) | `<act>/` | daily | 2026-11-27 07:07 UTC | no change | watched |
+| [Oberaegeri: systematic collection (oberaegeri.tlex.ch)](https://oberaegeri.tlex.ch/) | `<act>/` | daily | 2026-11-28 08:29 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:29](checks/2026-11.md#ch-lexwork-oberaegeri-city-20261128t082928z) | lexwork-oberaegeri-city | 26 | 0 | 0 | 0 | 1 (0) | no change | — |
+| [2026-11-28 07:11](checks/2026-11.md#ch-lexwork-oberaegeri-city-20261128t071101z) | lexwork-oberaegeri-city | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 06:41](checks/2026-11.md#ch-lexwork-oberaegeri-city-20261128t064143z) | lexwork-oberaegeri-city | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-27 07:06](checks/2026-11.md#ch-lexwork-oberaegeri-city-20261127t070652z) | lexwork-oberaegeri-city | 34 | 0 | 0 | 0 | 2 (0) | no change | — |
 | [2026-11-26 07:12](checks/2026-11.md#ch-lexwork-oberaegeri-city-20261126t071235z) | lexwork-oberaegeri-city | 24 | 0 | 0 | 0 | 1 (0) | no change | — |
 | [2026-11-25 08:20](checks/2026-11.md#ch-lexwork-oberaegeri-city-20261125t082059z) | lexwork-oberaegeri-city | 30 | 0 | 0 | 0 | 1 (0) | no change | — |
